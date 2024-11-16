@@ -92,3 +92,5 @@ async def on_message(message):
     if message.author == client.user:
         return
     await client.process_commands(message)
+
+#edit by @notlucasz228
