@@ -12,7 +12,7 @@ active_ghostping_tasks = {}
 credit_system = {}
 
 # Martin UserID
-AUTHORIZED_USER_ID = "1152764826796425227" 
+AUTHORIZED_USER_ID = "N/A" 
 
 # Helper function to ensure a user has an account
 def ensure_account(user_id):
